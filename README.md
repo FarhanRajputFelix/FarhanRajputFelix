@@ -10,19 +10,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/farhanmuhammadbashir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📌 Navigation
-<p align="center">
-  <a href="#-about"><b>About</b></a> •
-  <a href="#-core-interests"><b>Core Interests</b></a> •
-  <a href="#-tech-stack"><b>Tech Stack</b></a> •
-  <a href="#-currently-learning"><b>Learning</b></a> •
-  <a href="#-career-direction"><b>Direction</b></a>
 </p>
 
 ---
@@ -45,7 +34,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Stack
 
 ### 🧑‍💻 Programming & Data
 <p align="center">
@@ -86,7 +75,7 @@
 
 ### ⚙️ Other Exposure
 <p align="center">
-  <img src="https://img.shields.io/badge/MLflow-Tracking-0194E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
