@@ -1,5 +1,5 @@
 <h1 align="center">Farhan Bashir</h1>
-<h3 align="center">AI & Data Science Student | Research-Oriented Learner</h3>
+<h3 align="center">AI & Data Science Explorer | Research-Oriented Innovator</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farhan-rajput" target="_blank">
@@ -12,7 +12,16 @@
 
 ---
 
-## 🧠 Core Interests
+## 🚀 About Me
+I am a **curious problem-solver** exploring the world of **Artificial Intelligence, Data Science, and Intelligent Systems**.  
+I love **turning complex ideas into practical solutions**, building projects that push boundaries, and exploring research that can have a **real-world impact**.  
+
+Whether it’s **developing ML models**, **analyzing massive datasets**, or **creating intelligent systems**, I’m always learning and experimenting.  
+My goal is to combine **research-driven thinking with hands-on development** to build AI solutions that matter globally.  
+
+---
+
+## 🧠 What Excites Me
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial_Intelligence-Research-blue?style=flat"/>
   <img src="https://img.shields.io/badge/Data_Science-Analysis-green?style=flat"/>
@@ -22,7 +31,7 @@
 
 ---
 
-## 💻 Technical Stack
+## 💻 My Skills
 
 ### 🧑‍💻 Programming & Data
 <p align="center">
@@ -40,7 +49,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
 
-### 📊 Visualization
+### 📊 Data Visualization
 <p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
@@ -60,7 +69,7 @@
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
-### ⚙️ Other Exposure
+### ⚙️ Extra Exposure
 <p align="center">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -70,19 +79,18 @@
 
 ---
 
-## 🌱 Currently Learning
-- Machine Learning fundamentals
-- Model evaluation & optimization
-- Reading and understanding IEEE research papers
-- Strengthening mathematics & system thinking
+## 🌱 Learning & Growth
+- Advanced Machine Learning & AI systems
+- Model evaluation, optimization, and robustness
+- Implementing IEEE research in projects
+- Strengthening mathematics, algorithms & system thinking
 
 ---
 
-## 🎯 Career Direction
-- AI / Data Science internships
-- Research assistant roles
-- Long-term academic and research growth
+## 🎯 Career Vision
+I aim to **design AI solutions that matter**, contribute to research at **global labs**, and become a **leader in intelligent system development**.  
+Whether through **internships, research, or innovative projects**, I strive to leave a **lasting impact in AI and Data Science**.
 
 <p align="center">
-  <em>“Strong foundations create powerful systems.”</em>
+  <em>“Strong foundations create powerful systems. I build, I learn, I innovate.”</em>
 </p>
