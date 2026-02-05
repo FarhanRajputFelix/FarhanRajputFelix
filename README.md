@@ -1,6 +1,9 @@
 <h1 align="center">Farhan Bashir</h1>
 <h3 align="center">AI & Data Science Student | Research-Oriented Learner</h3>
 
+---
+
+## 👤 About
 <p align="center">
   <a href="https://www.linkedin.com/in/farhan-rajput" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -9,14 +12,6 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 👤 About
-- 🎓 Undergraduate student at **SZABIST University**
-- 🤖 Interested in **Artificial Intelligence & Data Science**
-- 📘 Research-oriented learner (IEEE-style reading & thinking)
-- 🌍 Preparing for **internships, labs, and global opportunities**
 
 ---
 
