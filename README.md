@@ -2,14 +2,10 @@
 <h3 align="center">AI & Data Science Student | Research-Oriented Learner</h3>
 
 <p align="center">
-  <em>Focused on fundamentals, intelligent systems, and long-term AI growth</em>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/farhan-rajput" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/farhanmuhammadbashir" target="_blank">
+  <a href="https://github.com/FarhanRajputFelix" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -95,8 +91,6 @@
 - AI / Data Science internships
 - Research assistant roles
 - Long-term academic and research growth
-
----
 
 <p align="center">
   <em>“Strong foundations create powerful systems.”</em>
