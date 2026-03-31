@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Drawing Recognition for Kids 🎨</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="animated-bg"></div>
+    
+    <div class="container">
+        <header>
+            <h1>Doodle<span class="highlight">Magic</span> ✨</h1>
+            <p>Draw something and the AI will guess it!</p>
+            <div class="target-words">Try drawing: <strong>Apple, Car, Cat, House, Tree, Sun</strong></div>
+        </header>
+
+        <main>
+            <div class="canvas-container">
+                <canvas id="drawingCanvas" width="400" height="400"></canvas>
+                <div class="tools">
+                    <button id="clearBtn" class="btn btn-secondary">🗑️ Clear</button>
+                    <button id="predictBtn" class="btn btn-primary">🪄 Guess It!</button>
+                </div>
+            </div>
+            
+            <div class="result-container">
+                <div class="robot-character">🤖</div>
+                <div class="speech-bubble" id="speechBubble">
+                    <p id="resultText">I'm waiting for your drawing...</p>
+                    <div class="loading hidden" id="loadingIndicator">
+                        <div class="dot"></div>
+                        <div class="dot"></div>
+                        <div class="dot"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Built with ❤️ and AI | <strong>Farhan</strong></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
